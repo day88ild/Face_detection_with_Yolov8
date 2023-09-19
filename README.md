@@ -38,6 +38,9 @@ This project is an experiment in face detection using YOLO. It includes a traini
 
 - **/requirements.txt**: List of Python dependencies required for the project.
 
+- **/blur_face.py**: similar to **/inference.py** but this one blur faces.
+
+
 ## Data
 
 Unfortunately it is impossible to load the data I trained my models on due to Github limitations
